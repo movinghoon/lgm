@@ -1,5 +1,5 @@
 
-# Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers (ICML 2026)
+# Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers
 This repository contains official code for \
 [Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers](https://arxiv.org/abs/2606.20076) \
 [Dong Hoon Lee](https://movinghoon.github.io) and [Seunghoon Hong](https://maga33.github.io) \
