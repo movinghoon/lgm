@@ -1,16 +1,9 @@
 
 # Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers (ICML 2026)
-
-<div align="center">
-
-[Dong Hoon Lee](https://movinghoon.github.io) &nbsp;·&nbsp;
-[Seunghoon Hong](https://maga33.github.io)
-
-**KAIST**
-
-[![Paper](https://img.shields.io/badge/arXiv-2604.04646-b31b1b.svg)](https://arxiv.org/abs/2606.20076)
-
-</div>
+This repository contains official code for \
+[Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers](https://arxiv.org/abs/2606.20076) \
+[Dong Hoon Lee](https://movinghoon.github.io) and [Seunghoon Hong](https://maga33.github.io) \
+ICML 2026
 
 ## Tokenizer
 
