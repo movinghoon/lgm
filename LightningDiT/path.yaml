@@ -1,0 +1,16 @@
+paths:
+  latent_data: /data_ext/data/ours2-d32/train_256
+  merge_dict: /data_ext/data/ours2-d32/ours2-d32.pt
+  tokenizer_ckpt: /data_ext/outputs/exp011-config_ours3_32/checkpoints/tokenizer.pt
+  stats_cache: work_dirs/stats.pkl
+  fid_ref_256: /home/dhlee/VIRTUAL_imagenet256_labeled.npz
+  fid_ref_512: # /data/tok/VIRTUAL_imagenet512.npz
+  work_dir: work_dirs
+
+checkpoints:
+  work_root:
+  xl_base:
+  lora_128:
+
+wandb:
+  entity: movinghoon
